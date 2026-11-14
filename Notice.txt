@@ -1,0 +1,11 @@
+Licensed by NVIDIA Corporation under the NVIDIA Open Model License
+
+These files are a derivative of NVIDIA's nemotron-speech-streaming-en-0.6b
+(https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b): the streaming
+speech recognition model exported to ONNX at a fixed chunk size (80 or 160 ms),
+with its encoder converted to 16-bit floating point (fp16), for Steadyline's
+speech recognition on NVIDIA GPUs.
+
+A copy of the NVIDIA Open Model License Agreement (version of 24 October 2025)
+is in NVIDIA-Open-Model-License.pdf. The model is provided "AS IS", without
+warranties of any kind, as that agreement states.
